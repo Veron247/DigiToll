@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigiToll.Data", "DigiToll.Data\DigiToll.Data.csproj", "{8F08A5CD-9933-63C8-89F8-3DDE6CE24C37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F08A5CD-9933-63C8-89F8-3DDE6CE24C37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F08A5CD-9933-63C8-89F8-3DDE6CE24C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F08A5CD-9933-63C8-89F8-3DDE6CE24C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F08A5CD-9933-63C8-89F8-3DDE6CE24C37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A2BA719-23A0-4A42-B6E3-B47199C39A53}
+	EndGlobalSection
+EndGlobal
