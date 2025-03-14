@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigiToll.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11162a1c696f65db5c72c027ed93f7934fbac62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa333bf88730452fc3f76d259bdf7bfbc0f85a20")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigiToll.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigiToll.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
