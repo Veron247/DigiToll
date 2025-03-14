@@ -1,0 +1,12 @@
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/bin/Debug/net8.0/DigiToll.Data.deps.json
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/bin/Debug/net8.0/DigiToll.Data.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/bin/Debug/net8.0/DigiToll.Data.pdb
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.AssemblyInfoInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.AssemblyInfo.cs
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.csproj.CoreCompileInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.sourcelink.json
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/refint/DigiToll.Data.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/DigiToll.Data.pdb
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.Data/obj/Debug/net8.0/ref/DigiToll.Data.dll

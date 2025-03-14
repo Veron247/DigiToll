@@ -1,8 +1,13 @@
 namespace DigiToll.SharedKernel.Interfaces
 {
-    public interface IUnitOfWork
+    public interface IUnitOfWork : IDisposable
     {
-        void Commit();
-        void Rollback();
+        Task<int> Save();
+
+        Task BeginTransactionAsync();
+
+        Task CommitAsync();
+
+        Task RollbackAsync();    
     }
 }
