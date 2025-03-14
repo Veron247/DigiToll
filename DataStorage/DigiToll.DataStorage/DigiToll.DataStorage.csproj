@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <!--<Nullable>enable</Nullable>-->
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="DatabaseContext\AccountManagement\" />
+      <Folder Include="DatabaseContext\Analytics\" />
+      <Folder Include="DatabaseContext\DeviceManagement\" />
+      <Folder Include="DatabaseContext\ExternalIntegrations\" />
+      <Folder Include="DatabaseContext\Notification\" />
+      <Folder Include="DatabaseContext\PaymentProcessing\" />
+      <Folder Include="DatabaseContext\Reporting\" />
+      <Folder Include="DatabaseContext\VehicleIdentification\" />
+      <Folder Include="EntityConfigurations\AccountManagement\" />
+      <Folder Include="EntityConfigurations\Analytics\" />
+      <Folder Include="EntityConfigurations\DeviceManagement\" />
+      <Folder Include="EntityConfigurations\ExternalIntegrations\" />
+      <Folder Include="EntityConfigurations\Notification\" />
+      <Folder Include="EntityConfigurations\PaymentProcessing\" />
+      <Folder Include="EntityConfigurations\Reporting\" />
+      <Folder Include="EntityConfigurations\VehicleIdentification\" />
+    </ItemGroup>
+
+</Project>
