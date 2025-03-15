@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigiToll.SharedKernel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8fc086fb0e8f9e697eea9a0f633c3f7b8e9e6e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08d9255974e8f4ff1b49ce431bbff9dbe0f60e50")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigiToll.SharedKernel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigiToll.SharedKernel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
