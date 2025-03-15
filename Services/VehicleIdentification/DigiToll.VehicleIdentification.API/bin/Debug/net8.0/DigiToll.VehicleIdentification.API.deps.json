@@ -1067,6 +1067,7 @@
       "VehicleIdentification.Infrastructure/1.0.0": {
         "dependencies": {
           "DigiToll.DataStorage": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.6.2",
           "VehicleIdentification.Domain": "1.0.0"
         },
         "runtime": {

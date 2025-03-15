@@ -16,31 +16,31 @@ public class ApplicationUser : IdentityUser{
     public bool IsAuthorized { get; set; } = false;
 
     [MaxLength(255)]
-    public string AuthorizedById { get; set; }
+    public string AuthorizedById { get; set; } = string.Empty;
 
     [MaxLength(300)]
-    public string AuthorizedBy { get; set; }
+    public string AuthorizedBy { get; set; } = string.Empty;
 
     public DateTime AuthorizedDate { get; set; }
 
     [MaxLength(300)]
-    public string CreatedBy { get; set; }
+    public string CreatedBy { get; set; } = string.Empty;
 
     [MaxLength(255)]
-    public string CreatedById { get; set; }
+    public string CreatedById { get; set; } = string.Empty;
 
     public DateTime CreatedDate { get; set; }
 
     [MaxLength(300)]
-    public string ModifiedBy { get; set; }
+    public string ModifiedBy { get; set; } = string.Empty;
 
     [MaxLength(255)]
-    public string ModifiedId { get; set; }
+    public string ModifiedId { get; set; } = string.Empty;
 
     public DateTime ModifiedDate { get; set; }
 
     [MaxLength(20)]
-    public string Role { get; set; }
+    public string Role { get; set; } = string.Empty;
 
     public int AgencyId { get; set; }
 

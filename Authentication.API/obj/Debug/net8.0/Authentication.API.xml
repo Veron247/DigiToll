@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Authentication.API</name>
+    </assembly>
+    <members>
+        <member name="M:Authentication.API.Controllers.AuthenticationController.Register(Authentication.Services.Models.UserRequest)">
+            <summary>
+            Create a new user
+            </summary>
+            <param name="register"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Authentication.API.Controllers.AuthenticationController.GetToken(Authentication.Services.Factory.AuthRequest)">
+            <summary>
+            Get Bearer Access Token Via Client Credentials
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

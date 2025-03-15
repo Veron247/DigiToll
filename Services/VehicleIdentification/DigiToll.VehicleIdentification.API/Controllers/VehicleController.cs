@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,11 +9,11 @@ namespace DigiToll.VehicleIdentification.API.controllers
     public class VehicleController : ControllerBase
     {
         [HttpGet]
+        [Authorize(Roles = "Admin")]
         public IActionResult GetVehicleDetails(string vehicleNumber)
         {          
             var vehicleDetails = "vehicleNumber switch case";
             
-           
             return Ok(vehicleDetails);
         }
     }
