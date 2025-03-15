@@ -1,0 +1,12 @@
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/bin/Debug/net9.0/DigiToll.SharedKernel.deps.json
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/bin/Debug/net9.0/DigiToll.SharedKernel.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/bin/Debug/net9.0/DigiToll.SharedKernel.pdb
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.AssemblyInfoInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.AssemblyInfo.cs
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.csproj.CoreCompileInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.sourcelink.json
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/refint/DigiToll.SharedKernel.dll
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/DigiToll.SharedKernel.pdb
+/Users/m1/Documents/dev_projects/DigiToll/DigiToll.SharedKernel/obj/Debug/net9.0/ref/DigiToll.SharedKernel.dll

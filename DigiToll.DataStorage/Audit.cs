@@ -30,5 +30,4 @@ public class Audit
 
     [MaxLength(500)]
     public string ObjectSavedChanges { get; set; }
-
 }

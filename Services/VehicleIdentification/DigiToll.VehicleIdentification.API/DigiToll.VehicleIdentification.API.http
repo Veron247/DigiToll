@@ -1,0 +1,6 @@
+@DigiToll.VehicleIdentification.API_HostAddress = http://localhost:5215
+
+GET {{DigiToll.VehicleIdentification.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

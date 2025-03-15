@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g28loFSc5qTM8mlG9dkodZR7Aw2bLW+mC79dZd4xPpk=",
+  "Source": "DigiToll.VehicleIdentification.API",
+  "BasePath": "_content/DigiToll.VehicleIdentification.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

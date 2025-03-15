@@ -1,0 +1,16 @@
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/bin/Debug/net8.0/VehicleIdentification.Domain.deps.json
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/bin/Debug/net8.0/VehicleIdentification.Domain.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/bin/Debug/net8.0/VehicleIdentification.Domain.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/bin/Debug/net8.0/DigiToll.SharedKernel.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/bin/Debug/net8.0/DigiToll.SharedKernel.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.csproj.AssemblyReference.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.AssemblyInfoInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.AssemblyInfo.cs
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.csproj.CoreCompileInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.sourcelink.json
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleI.7442A9EC.Up2Date
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/refint/VehicleIdentification.Domain.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/VehicleIdentification.Domain.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Domain/obj/Debug/net8.0/ref/VehicleIdentification.Domain.dll

@@ -1,0 +1,12 @@
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Application.deps.json
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Application.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Application.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.AssemblyInfoInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.AssemblyInfo.cs
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.csproj.CoreCompileInputs.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.sourcelink.json
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/refint/VehicleIdentification.Application.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/ref/VehicleIdentification.Application.dll
