@@ -1,11 +1,9 @@
-using System;
 using System.Security.Claims;
-using Authentication.Services.Models;
-using Microsoft.AspNetCore.Http;
+using Authentication.API.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace Authentication.Services.Factory;
+namespace Authentication.API.Factory;
 
  public class CustomAuthorizationAttribute : TypeFilterAttribute
  {

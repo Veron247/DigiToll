@@ -1,3 +1,4 @@
+using Authentication.API.Extension;
 using Authentication.Services;
 using DigiToll.DataStorage.EntityConfigurations.AccountManagement;
 using Microsoft.AspNetCore.Identity;

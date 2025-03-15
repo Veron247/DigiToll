@@ -4,19 +4,49 @@
         <name>Authentication.API</name>
     </assembly>
     <members>
-        <member name="M:Authentication.API.Controllers.AuthenticationController.Register(Authentication.Services.Models.UserRequest)">
+        <member name="M:Authentication.API.Controllers.AuthenticationController.Register(Authentication.API.Models.UserRequest)">
             <summary>
             Create a new user
             </summary>
             <param name="register"></param>
             <returns></returns>
         </member>
-        <member name="M:Authentication.API.Controllers.AuthenticationController.GetToken(Authentication.Services.Factory.AuthRequest)">
+        <member name="M:Authentication.API.Controllers.AuthenticationController.GetToken(Authentication.API.Factory.AuthRequest)">
             <summary>
             Get Bearer Access Token Via Client Credentials
             </summary>
             <param name="model"></param>
             <returns></returns>
+        </member>
+        <member name="P:Authentication.API.Factory.TokenResponse.Token">
+            <summary>
+            Access Token for authentication Request
+            </summary>
+        </member>
+        <member name="P:Authentication.API.Factory.TokenResponse.TokenType">
+            <summary>
+            Type of Token (typically "Bearer")
+            </summary>
+        </member>
+        <member name="P:Authentication.API.Factory.TokenResponse.ExpiresIn">
+             <summary>
+            Valid duration of token after which token is invalid (in seconds)
+             </summary>
+        </member>
+        <member name="P:Authentication.API.Factory.AuthRequest.ClientId">
+            <summary>
+            Your application's Client ID. 
+            </summary>
+        </member>
+        <member name="P:Authentication.API.Factory.AuthRequest.ClientSecret">
+            <summary>
+            Your application's Client Secret. 
+            </summary>
+        </member>
+        <member name="P:Authentication.API.Factory.AuthRequest.GrantType">
+            <summary>
+            This must be client_credentials
+            </summary>
         </member>
     </members>
 </doc>

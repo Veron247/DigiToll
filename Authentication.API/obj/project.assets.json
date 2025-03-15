@@ -1730,7 +1730,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "DigiToll.DataStorage": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.8",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -4704,6 +4703,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Authentication.Services >= 1.0.0",
+      "DigiToll.DataStorage >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 8.0.13",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
@@ -4736,6 +4736,9 @@
           "projectReferences": {
             "/Users/m1/Documents/dev_projects/DigiToll/Authentication.Services/Authentication.Services.csproj": {
               "projectPath": "/Users/m1/Documents/dev_projects/DigiToll/Authentication.Services/Authentication.Services.csproj"
+            },
+            "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj": {
+              "projectPath": "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj"
             }
           }
         }

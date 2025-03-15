@@ -1,7 +1,6 @@
-using Authentication.Services.Factory;
-using Authentication.Services.Models;
+using Authentication.API.Factory;
+using Authentication.API.Models;
 using DigiToll.DataStorage.EntityConfigurations.AccountManagement;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 

@@ -1,5 +1,4 @@
-using DigiToll.DataStorage.EntityConfigurations.AccountManagement;
-using Microsoft.AspNetCore.Identity;
+using Authentication.Services;
 using Microsoft.OpenApi.Models;
 using VehicleIdentification.Infrastructure;
 
@@ -36,10 +35,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCustomControllers();
 builder.Services.AddDatabaseContexts(builder.Configuration);
 builder.Services.AddApplicationServices(builder.Configuration);
-
-builder.Services.AddAuthentication();
-
-builder.Services.AddAuthorization();
+builder.Services.AddJwtService(builder.Configuration);
 
 builder.Services.AddCors(options =>
 {

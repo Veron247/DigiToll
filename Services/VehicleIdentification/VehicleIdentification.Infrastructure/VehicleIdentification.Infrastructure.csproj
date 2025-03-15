@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="../../../Authentication.Services/Authentication.Services.csproj" />
     <ProjectReference Include="../../../DigiToll.DataStorage/DigiToll.DataStorage.csproj" />
     <ProjectReference Include="../VehicleIdentification.Domain/VehicleIdentification.Domain.csproj" />
   </ItemGroup>

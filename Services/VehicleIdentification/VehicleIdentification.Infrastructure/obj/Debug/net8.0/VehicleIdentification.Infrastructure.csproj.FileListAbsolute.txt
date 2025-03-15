@@ -18,3 +18,6 @@
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/obj/Debug/net8.0/refint/VehicleIdentification.Infrastructure.dll
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/obj/Debug/net8.0/VehicleIdentification.Infrastructure.pdb
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/obj/Debug/net8.0/ref/VehicleIdentification.Infrastructure.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/bin/Debug/net8.0/Authentication.Services.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/bin/Debug/net8.0/Authentication.Services.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Infrastructure/bin/Debug/net8.0/Authentication.Services.xml

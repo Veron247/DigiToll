@@ -21,6 +21,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="../DigiToll.DataStorage/DigiToll.DataStorage.csproj" />
       <ProjectReference Include="..\Authentication.Services\Authentication.Services.csproj" />
     </ItemGroup>
 

@@ -29,6 +29,9 @@
             "projectReferences": {
               "/Users/m1/Documents/dev_projects/DigiToll/Authentication.Services/Authentication.Services.csproj": {
                 "projectPath": "/Users/m1/Documents/dev_projects/DigiToll/Authentication.Services/Authentication.Services.csproj"
+              },
+              "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj": {
+                "projectPath": "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj"
               }
             }
           }
@@ -103,11 +106,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj": {
-                "projectPath": "/Users/m1/Documents/dev_projects/DigiToll/DigiToll.DataStorage/DigiToll.DataStorage.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {

@@ -1,4 +1,4 @@
-namespace Authentication.Services.Models;
+namespace Authentication.API.Models;
 
 public class ApiResponse
 {

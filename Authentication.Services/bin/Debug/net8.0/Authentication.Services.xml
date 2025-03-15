@@ -4,35 +4,5 @@
         <name>Authentication.Services</name>
     </assembly>
     <members>
-        <member name="P:Authentication.Services.Factory.TokenResponse.Token">
-            <summary>
-            Access Token for authentication Request
-            </summary>
-        </member>
-        <member name="P:Authentication.Services.Factory.TokenResponse.TokenType">
-            <summary>
-            Type of Token (typically "Bearer")
-            </summary>
-        </member>
-        <member name="P:Authentication.Services.Factory.TokenResponse.ExpiresIn">
-             <summary>
-            Valid duration of token after which token is invalid (in seconds)
-             </summary>
-        </member>
-        <member name="P:Authentication.Services.Factory.AuthRequest.ClientId">
-            <summary>
-            Your application's Client ID. 
-            </summary>
-        </member>
-        <member name="P:Authentication.Services.Factory.AuthRequest.ClientSecret">
-            <summary>
-            Your application's Client Secret. 
-            </summary>
-        </member>
-        <member name="P:Authentication.Services.Factory.AuthRequest.GrantType">
-            <summary>
-            This must be client_credentials
-            </summary>
-        </member>
     </members>
 </doc>

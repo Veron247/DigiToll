@@ -9,6 +9,7 @@
       "Authentication.API/1.0.0": {
         "dependencies": {
           "Authentication.Services": "1.0.0",
+          "DigiToll.DataStorage": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.13",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -1018,7 +1019,6 @@
       },
       "Authentication.Services/1.0.0": {
         "dependencies": {
-          "DigiToll.DataStorage": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.8",
           "Swashbuckle.AspNetCore": "6.6.2"
         },

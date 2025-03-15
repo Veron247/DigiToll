@@ -1,14 +1,12 @@
-using System;
 using System.ComponentModel.DataAnnotations;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using System.Text.Json.Serialization;
 using DigiToll.DataStorage.EntityConfigurations.AccountManagement;
-using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Authentication.Services.Factory;
+namespace Authentication.API.Factory;
 
     public class JwtFactory(IConfiguration _config)
     {      

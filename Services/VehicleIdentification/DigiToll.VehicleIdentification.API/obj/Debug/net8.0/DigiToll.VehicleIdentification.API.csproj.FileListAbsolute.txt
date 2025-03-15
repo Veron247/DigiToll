@@ -159,3 +159,7 @@
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/obj/Debug/net8.0/DigiToll.VehicleIdentification.API.pdb
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/obj/Debug/net8.0/DigiToll.VehicleIdentification.API.genruntimeconfig.cache
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/obj/Debug/net8.0/ref/DigiToll.VehicleIdentification.API.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.xml
