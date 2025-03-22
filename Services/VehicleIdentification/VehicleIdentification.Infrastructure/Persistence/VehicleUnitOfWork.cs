@@ -6,7 +6,12 @@ using VehicleIdentification.Domain.Aggregates;
 
 namespace VehicleIdentification.Infrastructure.Persistence;
 
-public class UnitOfWork(VehicleDbContext _context, IServiceProvider _serviceProvider) : IUnitOfWork, IDisposable
+public interface IVehicleUnitOfWork : IUnitOfWork
+{
+    IVehicleRepository VehicleRepository { get; }
+}
+
+public class VehicleUnitOfWork(VehicleDbContext _context, IServiceProvider _serviceProvider) : IVehicleUnitOfWork
 {
     private IDbContextTransaction _transaction;
 

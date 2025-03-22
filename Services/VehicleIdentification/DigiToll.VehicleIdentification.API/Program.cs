@@ -1,8 +1,19 @@
+using System.Reflection;
 using Authentication.Services;
+using FluentValidation;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using VehicleIdentification.Application.Behaviors;
+using VehicleIdentification.Application.Commands.CreateVehicle;
 using VehicleIdentification.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+builder.Services.AddValidatorsFromAssemblyContaining<CreateVehicleCommandValidator>();
+
+//builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(CreateVehicleCommandHandler).Assembly));
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>

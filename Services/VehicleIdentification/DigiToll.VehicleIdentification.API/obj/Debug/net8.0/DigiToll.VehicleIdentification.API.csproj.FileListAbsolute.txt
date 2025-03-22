@@ -163,3 +163,10 @@
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.dll
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.pdb
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/Authentication.Services.xml
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/AutoMapper.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/FluentValidation.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/MediatR.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/VehicleIdentification.Application.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/DigiToll.VehicleIdentification.API/bin/Debug/net8.0/VehicleIdentification.Application.pdb

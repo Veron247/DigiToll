@@ -19,6 +19,8 @@ namespace Authentication.API.Controllers
         public async Task<IActionResult> Register(UserRequest register)
         {
             var emailUsername = register.Email.Split('@')[0];
+            var splitRoles = register.Role.Split(',');
+
             var user = new ApplicationUser
             {
                 UserName = emailUsername,
@@ -31,7 +33,7 @@ namespace Authentication.API.Controllers
             var result = await _userManager.CreateAsync(user, register.Password);
             
             if (result.Succeeded)
-                await _userManager.AddToRoleAsync(user, register.Role);
+                await _userManager.AddToRolesAsync(user, splitRoles.ToList());
 
             if (result.Succeeded)
             {
@@ -55,7 +57,7 @@ namespace Authentication.API.Controllers
 
             if (user is { Active: true } && await _userManager.CheckPasswordAsync(user, model.ClientSecret) && model.GrantType == "client_credentials")
             {
-                var token = _jwtService.BuildToken(user, (await _userManager.GetRolesAsync(user)).FirstOrDefault());
+                var token = _jwtService.BuildToken(user, (await _userManager.GetRolesAsync(user)).ToList());
 
                 response = Ok(token);
             }

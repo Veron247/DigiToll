@@ -2,13 +2,16 @@
 using System.Text;
 using DigiToll.DataStorage.DatabaseContext;
 using DigiToll.DataStorage.EntityConfigurations.AccountManagement;
+using DigiToll.SharedKernel.Interfaces;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
+using VehicleIdentification.Domain.Aggregates;
 using VehicleIdentification.Infrastructure.Persistence;
+using VehicleIdentification.Infrastructure.Repositories;
 
 namespace VehicleIdentification.Infrastructure;
 
@@ -53,10 +56,12 @@ public static class ServiceCollectionExtension
         return services;
     }
 
-     public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration config)
+    public static IServiceCollection AddApplicationServices(this IServiceCollection services, IConfiguration config)
     {
         services.AddMemoryCache();
-       
+        services.AddScoped<IVehicleUnitOfWork, VehicleUnitOfWork>();
+        services.AddScoped<IVehicleRepository, VehicleRepository>();     
+     
         return services;
     }
 }

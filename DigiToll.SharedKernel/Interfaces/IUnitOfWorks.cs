@@ -8,6 +8,6 @@ namespace DigiToll.SharedKernel.Interfaces
 
         Task CommitAsync();
 
-        Task RollbackAsync();    
+        Task RollbackAsync();         
     }
 }

@@ -10,3 +10,16 @@
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/refint/VehicleIdentification.Application.dll
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.pdb
 /Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/ref/VehicleIdentification.Application.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/Authentication.Services.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/DigiToll.DataStorage.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/DigiToll.SharedKernel.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Domain.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Infrastructure.dll
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Infrastructure.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/Authentication.Services.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/Authentication.Services.xml
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/DigiToll.DataStorage.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/DigiToll.SharedKernel.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/bin/Debug/net8.0/VehicleIdentification.Domain.pdb
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleIdentification.Application.csproj.AssemblyReference.cache
+/Users/m1/Documents/dev_projects/DigiToll/Services/VehicleIdentification/VehicleIdentification.Application/obj/Debug/net8.0/VehicleI.81B7FBD1.Up2Date

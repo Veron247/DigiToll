@@ -22,7 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="../../../DigiToll.DataStorage/DigiToll.DataStorage.csproj" />
-    <ProjectReference Include="../VehicleIdentification.Infrastructure/VehicleIdentification.Infrastructure.csproj" />
+    <ProjectReference Include="../VehicleIdentification.Application/VehicleIdentification.Application.csproj" />
   </ItemGroup>
 
 </Project>

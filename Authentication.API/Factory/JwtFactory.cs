@@ -10,7 +10,7 @@ namespace Authentication.API.Factory;
 
     public class JwtFactory(IConfiguration _config)
     {      
-        public TokenResponse BuildToken(ApplicationUser user, string role)
+        public TokenResponse BuildToken(ApplicationUser user, List<string> roles)
         {
             var claims = new List<Claim>
             {
@@ -19,9 +19,11 @@ namespace Authentication.API.Factory;
                  new Claim(JwtRegisteredClaimNames.Iat, ToUnixEpochDate(DateTime.Now).ToString(), ClaimValueTypes.Integer64),
                  new Claim(ClaimTypes.Sid, user.Id),
                  new Claim(ClaimTypes.Name, user.UserName),
-                 new Claim(ClaimTypes.Role, role),
                  new Claim("DigiTollAuthenticationAPI","DigiTollAuthenticationAPI")
             };
+            
+            if (roles.Any())
+                claims.AddRange(roles.Select(role => new Claim(ClaimsIdentity.DefaultRoleClaimType, role)));
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
